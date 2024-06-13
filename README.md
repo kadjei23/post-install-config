@@ -42,7 +42,9 @@ Next we are going to enable and allow anyone to create tickets by going to Admin
 
 <img src="https://i.imgur.com/Tgup1tD.png" height="80%" width="80%" alt="User"/>
 
-On this display check the "Registration Required: Require registration and login to create tickets" this allows any person to create a ticket
+On this display check the "Registration Required: Require registration and login to create tickets" this allows any person to create a ticket.
+
+After that we are going to create and configure our agents.
 
 
 
