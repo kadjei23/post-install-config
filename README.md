@@ -22,6 +22,12 @@ After adding and naming the role we are then going to go to permissions and chec
 
 <img src="https://i.imgur.com/vptLFub.png" height="80%" width="80%" alt="Permissions"/>
 
+Next we are going to configure departments. Admin Panel -> Agents -> Departments -> Add New Departments
+
+<img src="https://i.imgur.com/e4W9Wls.png" height="80%" width="80%" alt="Add Dep"/>
+
+
+
 
 
 <h2>Environments and Technologies Used</h2>
