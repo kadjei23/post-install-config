@@ -6,7 +6,7 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.We are going to be configuring and using osTicket through the eyes of an admin user by defining roles, departments, teams and assiging SLA,s. <br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Getting Started </h2>
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
