@@ -10,6 +10,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img src="https://i.imgur.com/TCT6SxR.png" height="80%" width="80%" alt="Get Started"/>
 
+To get started with this we first create a Role, Admin Panel -> Agents -> Roles. Then head to add new role and name it anything.
+
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
