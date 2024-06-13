@@ -75,6 +75,16 @@ Lastly we will end with creating help topics. Admin Panel -> Manage -> Help Topi
 
 <img src="https://i.imgur.com/gXIoyfL.png" height="80%" width="80%" alt="Help"/>
 
+You can see at the bottom we are able to Create the topics needed for customers to place whatever issue they are having in categories.
+
+<img src="https://i.imgur.com/qfRpUIO.png" height="80%" width="80%" alt="Topics"/>
+
+<img src="https://i.imgur.com/MkJzA9Q.png" height="80%" width="80%" alt="Topic"/>
+
+
+
+
+
 
 
 
