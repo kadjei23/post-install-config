@@ -34,6 +34,10 @@ Move on to create and configure Teams. Admin Panel -> Agents -> Teams -> Create 
 
 <img src="https://i.imgur.com/QwRBALq.png" height="80%" width="80%" alt="Teams"/>
 
+You can add yourself as the admin to any team.
+
+<img src="https://i.imgur.com/V46xyHC.png" height="80%" width="80%" alt="Teams 2"/>
+
 
 
 
