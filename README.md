@@ -44,7 +44,15 @@ Next we are going to enable and allow anyone to create tickets by going to Admin
 
 On this display check the "Registration Required: Require registration and login to create tickets" this allows any person to create a ticket.
 
-After that we are going to create and configure our agents.
+After that we are going to create and configure our agents. Admin Panel -> Agents -> Add New for the names of our agents we are going to use Sterling and John.
+
+<img src="https://i.imgur.com/mAvBlmG.png" height="80%" width="80%" alt="Agents"/>
+
+By pressing create agents we can come up with the agents first and last name and their email then makeup a username for them. After that we then set a password for the to use.
+
+<img src="https://i.imgur.com/WrCO62k.png" height="80%" width="80%" alt="Sterling"/>
+
+
 
 
 
