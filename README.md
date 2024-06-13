@@ -30,6 +30,8 @@ Name the new created department System Administrator. We will be using default s
 
 <img src="https://i.imgur.com/IKydyXm.png" height="80%" width="80%" alt="Sys Ad"/>
 
+Move on to create and configure Teams. Admin Panel -> Agents -> Teams -> Create two teams Level 1 and level 2 support or Team A team B.
+
 
 
 
