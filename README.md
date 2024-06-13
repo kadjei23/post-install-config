@@ -14,6 +14,10 @@ To get started with this we first create a Role, Admin Panel -> Agents -> Roles.
 
 <img src="https://i.imgur.com/NclXEBK.png" height="80%" width="80%" alt="New Role"/>
 
+After adding and naming the role we are then going to go to permissions and check all the boxes on tasks and let us be in control of everything.
+
+<img src="https://i.imgur.com/ERTwoxb.png" height="80%" width="80%" alt="New Role ext"/>
+
 
 
 <h2>Environments and Technologies Used</h2>
