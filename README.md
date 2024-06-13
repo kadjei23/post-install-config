@@ -26,6 +26,12 @@ Next we are going to configure departments. Admin Panel -> Agents -> Departments
 
 <img src="https://i.imgur.com/e4W9Wls.png" height="80%" width="80%" alt="Add Dep"/>
 
+Name the new created department System Administrator. We will be using default settings for now so go ahead and create.
+
+<img src="https://i.imgur.com/IKydyXm.png" height="80%" width="80%" alt="Sys Ad"/>
+
+
+
 
 
 
