@@ -38,6 +38,10 @@ You can add yourself as the admin to any team.
 
 <img src="https://i.imgur.com/V46xyHC.png" height="80%" width="80%" alt="Teams 2"/>
 
+Next we are going to enable and allow anyone to create tickets by going to Admin Panel -> Settings -> User -> User Settings.
+
+<img src="https://i.imgur.com/Tgup1tD.png" height="80%" width="80%" alt="User"/>
+
 
 
 
