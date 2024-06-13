@@ -52,6 +52,10 @@ By pressing create agents we can come up with the agents first and last name and
 
 <img src="https://i.imgur.com/WrCO62k.png" height="80%" width="80%" alt="Sterling"/>
 
+After we set the password we can go to access tab and assign what level they are at, what team they can be assigned to and what department they belong to. These all determine the level of access they have in osTicket.
+
+<img src="https://i.imgur.com/9EaZ6TG.png" height="80%" width="80%" alt="Access"/>
+
 
 
 
