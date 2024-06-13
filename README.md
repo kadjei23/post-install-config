@@ -56,6 +56,8 @@ After we set the password we can go to access tab and assign what level they are
 
 <img src="https://i.imgur.com/9EaZ6TG.png" height="80%" width="80%" alt="Access"/>
 
+After creating these agents we can now create and configure the users/customers than can use and create tickets.
+
 
 
 
