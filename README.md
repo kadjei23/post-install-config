@@ -20,6 +20,8 @@ After adding and naming the role we are then going to go to permissions and chec
 
 <img src="https://i.imgur.com/AJPbH2e.png" height="80%" width="80%" alt="New Role task"/>
 
+<img src="https://i.imgur.com/vptLFub.png" height="80%" width="80%" alt="Permissions"/>
+
 
 
 <h2>Environments and Technologies Used</h2>
