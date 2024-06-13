@@ -12,6 +12,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 To get started with this we first create a Role, Admin Panel -> Agents -> Roles. Then head to add new role and name it anything.
 
+<img src="https://i.imgur.com/NclXEBK.png" height="80%" width="80%" alt="New Role"/>
+
 
 
 <h2>Environments and Technologies Used</h2>
