@@ -64,6 +64,13 @@ Fill out the necessary information to create the user like name and email and hi
 
 <img src="https://i.imgur.com/yz5UptO.png" height="80%" width="80%" alt="User2"/>
 
+Next we are going to create SLA's. Admin Panel -> Manage -> SLA. We will be creating 3 of them which are sev-a, sev-B, and Sev-C. Each will have different grace periods of when the tickets are supposed to be done.
+
+<img src="https://i.imgur.com/wX9SOUS.png" height="80%" width="80%" alt="SLA"/>
+
+<img src="https://i.imgur.com/kA9S8QP.png" height="80%" width="80%" alt="SEV-C"/>
+
+
 
 
 
