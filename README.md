@@ -70,6 +70,9 @@ Next we are going to create SLA's. Admin Panel -> Manage -> SLA. We will be crea
 
 <img src="https://i.imgur.com/kA9S8QP.png" height="80%" width="80%" alt="SEV-C"/>
 
+Lastly we will end with creating help topics. Admin Panel -> Manage -> Help Topics. When the users(customers) are creating a ticket the help topics help identify what kind of problem it is which then allows our agents to see the business impact and level of attention is needed with each topic. Help topic example: Password reset, Broken laptop Etc.
+
+
 
 
 
