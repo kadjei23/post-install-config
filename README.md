@@ -58,6 +58,12 @@ After we set the password we can go to access tab and assign what level they are
 
 After creating these agents we can now create and configure the users/customers than can use and create tickets. Agent Panel -> Users -> Add New
 
+<img src="https://i.imgur.com/dotgVHR.png" height="80%" width="80%" alt="User"/>
+
+Fill out the necessary information to create the user like name and email and hit create after completion.
+
+<img src="https://i.imgur.com/yz5UptO.png" height="80%" width="80%" alt="User2"/>
+
 
 
 
